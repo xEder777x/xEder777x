@@ -1,0 +1,27 @@
+.columna1{
+
+}
+.container{
+  top: 150px;
+}
+.hero{
+  background-image: url("https://image.ibb.co/m4SM8c/corinne_kutz_211251_unsplash.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  weight: 300px;
+}
+#navbar{
+  background-color:   rgba(254, 255, 254, 0.69);
+position: fixed;
+transition: top 0.5s;
+width: 100%;
+
+}
+.cabecera{
+  height: 1000px;
+}
+
+#navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
