@@ -1,6 +1,4 @@
-.columna1{
 
-}
 .container{
   top: 150px;
 }
@@ -8,7 +6,7 @@
   background-image: url("https://image.ibb.co/ck0EDc/greg_rakozy_129733_unsplash.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  weight: 300px;
+  
 }
 #navbar{
   background-color:   rgba(254, 255, 254, 0.69);
@@ -25,3 +23,7 @@ width: 100%;
     background-color: #ddd;
     color: black;
 }
+  .titles{
+   margin-top: 200px;
+   top: -600em;
+ }
