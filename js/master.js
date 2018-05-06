@@ -11,3 +11,8 @@ window.onscroll = function () {
 
 
 
+//paralax
+
+
+
+

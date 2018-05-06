@@ -2,7 +2,7 @@
 .container{
   top: 150px;
 }
-.hero{
+.cabcra{
   background-image: url("https://image.ibb.co/ck0EDc/greg_rakozy_129733_unsplash.jpg");
   background-repeat: no-repeat;
   background-position: center;
@@ -27,3 +27,31 @@ width: 100%;
    margin-top: 200px;
    top: -600em;
  }
+
+
+ .parallax, .parallx1 {
+  /* The image used */
+  background-image: url("https://image.ibb.co/cjDsOn/aaron_burden_563556_unsplash.jpg");
+
+  /* Set a specific height */
+  min-height:300px; 
+ 
+top: -255em;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+}
+
+.iconz{
+ margin-bottom: 250px;
+ margin-left: 100px;
+ width: 100%;
+}
+
+.titulo3{
+ margin-top: -200px;
+
+}
